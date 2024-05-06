@@ -518,7 +518,6 @@ function createNewSections(mainSection, subSection, subContainer) {
                         rightDivParent.style.flex = 1;
 
                         if (feature.hasSpecialData == true) {
-                            console.log(feature.data.length)
                             feature.data.forEach((dataInfo) => {
                                 const rightDivChild = document.createElement("div");
                                 rightDivChild.style.display = "flex"
