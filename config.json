@@ -1494,13 +1494,13 @@
             },
             {
                 "Title": {
-                    "EN": "FREE SPINS",
-                    "RU": "FREE SPINS",
-                    "FR": "FREE SPINS",
-                    "ZH": "FREE SPINS",
-                    "US": "FREE SPINS",
-                    "PT": "FREE SPINS",
-                    "IT": "FREE SPINS"
+                    "EN": "SUPER SPIN",
+                    "RU": "SUPER SPIN",
+                    "FR": "SUPER SPIN",
+                    "ZH": "SUPER SPIN",
+                    "US": "SUPER SPIN",
+                    "PT": "SUPER SPIN",
+                    "IT": "SUPER SPIN"
                 },
                 "sectionType": "Feature",
                 "Type": "Title",
@@ -1534,155 +1534,29 @@
                                         "textAlignment": "center",
                                         "content": {
                                             "EN": [
-                                                "The BONUS starts with 5 FREE SPINS and awards prizes and bomb symbols. Each spin can award prize combinations of three symbols multiplied by the current bomb symbol values. If any bomb symbol stops on screen, the number of FREE SPINS increases by 2."
+                                                "In the BONUS, there is a chance of the player receiving a SUPER SPIN, composed of only the 4 highest symbols."
                                             ],
                                             "IT": [
-                                                "Il BONUS inizia con 5 FREE SPINS e assegna premi e simboli bomba. Ogni giro può assegnare combinazioni di premi di tre simboli moltiplicati per i valori attuali del simbolo bomba. Se un simbolo bomba si ferma sullo schermo, il numero di FREE SPINS aumenta di 2."
+                                                "Nel BONUS, c'è la possibilità che il giocatore riceva un SUPER SPIN, composto solo dai 4 simboli più alti."
                                             ],
                                             "RU": [
-                                                "BONUS начинаетѝѝ ѝ 5 FREE SPINS и награждает призами и ѝимволами бомб. Каждый ѝпин может принеѝти комбинации призов из трех ѝимволов, умноженные на текущие значениѝ ѝимвола бомбы. Еѝли какой-либо ѝимвол бомбы оѝтанавливаетѝѝ на ѝкране, количеѝтво FREE SPINS увеличиваетѝѝ на 2."
+                                                "В BONUS у игрока есть шанс получить SUPER SPIN, состоящий только из 4 наивысших символов."
                                             ],
                                             "FR": [
-                                                "Le BONUS commence avec 5 FREE SPINS et attribue des prix et des symboles bombe. Chaque tour peut attribuer des combinaisons de prix de trois symboles multipliés par les valeurs actuelles du symbole bombe. Si un symbole bombe s'arrête sur l'écran, le nombre de FREE SPINS augmente de 2."
+                                                "Dans le BONUS, il y a une chance que le joueur reçoive un SUPER SPIN, composé uniquement des 4 symboles les plus élevés."
                                             ],
                                             "ZH": [
-                                                "BONUS起始于5个FREE SPINS，并奖励奖哝和炸弹符坷。毝次旋转坯以根杮当剝炸弹符坷的值来奖励三个符坷的奖励组坈。如果屝幕上坜止任何炸弹符坷，FREE SPINS的数針将增加2。"
+                                                "在BONUS中，玩家有机会获得一个SUPER SPIN，该SPIN仅由4个最高符号组成。"
                                             ],
                                             "US": [
-                                                "The BONUS starts with 5 FREE SPINS and awards prizes and bomb symbols. Each spin can award prize combinations of three symbols multiplied by the current bomb symbol values. If any bomb symbol stops on screen, the number of FREE SPINS increases by 2."
+                                                "In the BONUS, there is a chance of the player receiving a SUPER SPIN, composed of only the 4 highest symbols."
                                             ],
                                             "PT": [
-                                                "O BONUS começa com 5 FREE SPINS e concede prêmios e símbolos de bomba. Cada giro pode conceder combinações de prêmios de três símbolos multiplicados pelos valores atuais do símbolo de bomba. Se algum símbolo de bomba parar na tela, o número de FREE SPINS aumenta em 2."
+                                                "No BONUS, há uma chance de o jogador receber um SUPER SPIN, composto apenas pelos 4 símbolos mais altos."
                                             ]
                                         },
                                         "direction": "column",
                                         "customFormat": ""
-                                    }
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "Title": {
-                    "EN": "FREE SPINS",
-                    "RU": "FREE SPINS",
-                    "FR": "FREE SPINS",
-                    "ZH": "FREE SPINS",
-                    "US": "FREE SPINS",
-                    "PT": "FREE SPINS",
-                    "IT": "FREE SPINS"
-                },
-                "sectionType": "Feature",
-                "Type": "Title",
-                "SubSection": [
-                    {
-                        "typeDisplay": "flex",
-                        "direction": "column",
-                        "justifyContent": "center",
-                        "features": [
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "row",
-                                "featureContent": [
-                                    {
-                                        "type": "img",
-                                        "imageType": "big",
-                                        "divMaxWidth": "screenWidth",
-                                        "wrap": "wrap",
-                                        "url": [
-                                            "images/Settings/Assets/FRAME_2.png"
-                                        ]
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "plural_text",
-                                        "textAlignment": "center",
-                                        "content": {
-                                            "EN": [
-                                                "The SUPER BONUS starts with 10 FREE SPINS and awards prizes and bomb symbols. Each spin can award prize combinations of three symbols multiplied by the current bomb symbol values. If any bomb symbol stops on screen, the number of FREE SPINS increases by 2. No small symbols."
-                                            ],
-                                            "IT": [
-                                                "Il SUPER BONUS inizia con 10 FREE SPINS e assegna premi e simboli bomba. Ogni giro può assegnare combinazioni di premi di tre simboli moltiplicati per i valori attuali del simbolo bomba. Se un simbolo bomba si ferma sullo schermo, il numero di FREE SPINS aumenta di 2. Nessun simbolo piccolo."
-                                            ],
-                                            "RU": [
-                                                "SUPER BONUS начинаетѝѝ ѝ 10 FREE SPINS и награждает призами и ѝимволами бомб. Каждый ѝпин может принеѝти комбинации призов из трех ѝимволов, умноженные на текущие значениѝ ѝимвола бомбы. Еѝли какой-либо ѝимвол бомбы оѝтанавливаетѝѝ на ѝкране, количеѝтво FREE SPINS увеличиваетѝѝ на 2. Нет маленьких ѝимволов."
-                                            ],
-                                            "FR": [
-                                                "Le SUPER BONUS commence avec 10 FREE SPINS et attribue des prix et des symboles bombe. Chaque tour peut attribuer des combinaisons de prix de trois symboles multipliés par les valeurs actuelles du symbole bombe. Si un symbole bombe s'arrête sur l'écran, le nombre de FREE SPINS augmente de 2. Aucun petit symbole."
-                                            ],
-                                            "ZH": [
-                                                "SUPER BONUS起始于10个FREE SPINS，并奖励奖哝和炸弹符坷。毝次旋转坯以根杮当剝炸弹符坷的值来奖励三个符坷的奖励组坈。如果屝幕上坜止任何炸弹符坷，FREE SPINS的数針将增加2。没有尝符坷。"
-                                            ],
-                                            "US": [
-                                                "The SUPER BONUS starts with 10 FREE SPINS and awards prizes and bomb symbols. Each spin can award prize combinations of three symbols multiplied by the current bomb symbol values. If any bomb symbol stops on screen, the number of FREE SPINS increases by 2. No small symbols."
-                                            ],
-                                            "PT": [
-                                                "O SUPER BONUS começa com 10 FREE SPINS e concede prêmios e símbolos de bomba. Cada giro pode conceder combinações de prêmios de três símbolos multiplicados pelos valores atuais do símbolo de bomba. Se algum símbolo de bomba parar na tela, o número de FREE SPINS aumenta em 2. Sem símbolos pequenos."
-                                            ]
-                                        },
-                                        "direction": "column",
-                                        "customFormat": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "typeDisplay": "flex",
-                                "direction": "column",
-                                "featureContent": [
-                                    {
-                                        "type": "img_text",
-                                        "imageType": "big",
-                                        "divMaxWidth": "specialSymbolWidth",
-                                        "wrap": "wrap",
-                                        "data": [
-                                            {
-                                                "multipliers": "",
-                                                "value": "",
-                                                "specialContent": [
-                                                    {
-                                                        "EN": [
-                                                            "No x1 in bomb symbols."
-                                                        ],
-                                                        "IT": [
-                                                            "Nessun x1 nei simboli bomba."
-                                                        ],
-                                                        "RU": [
-                                                            "Нет x1 в ѝимволах бомбы."
-                                                        ],
-                                                        "FR": [
-                                                            "Pas de x1 dans les symboles bombe."
-                                                        ],
-                                                        "ZH": [
-                                                            "炸弹符坷中没有x1。"
-                                                        ],
-                                                        "US": [
-                                                            "No x1 in bomb symbols."
-                                                        ],
-                                                        "PT": [
-                                                            "Sem x1 nos símbolos de bomba."
-                                                        ]
-                                                    }
-                                                ]
-                                            }
-                                        ],
-                                        "url": [
-                                            "images/Settings/Symbol/0.png",
-                                            "images/Settings/Symbol/1.png",
-                                            "images/Settings/Symbol/2.png",
-                                            "images/Settings/Symbol/3.png",
-                                            "images/Settings/Symbol/4.png"
-                                        ],
-                                        "textAlignment": "center",
-                                        "hasSpecialData": true,
-                                        "direction": "column",
-                                        "contentDirection": "row"
                                     }
                                 ]
                             }
@@ -1737,32 +1611,32 @@
                                         "textAlignment": "center",
                                         "content": {
                                             "EN": [
-                                                "The maximum value of the prize is limited to 5,000x the bet in both the main game and BONUS. If the prize of the total round hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed.",
-                                                "Activate the BONUS or SUPER BONUS instantly by buying them for 50x or 300x your bet respectively. Alternatively, you can buy the MYSTERY BONUS, which activates a random BONUS, the higher the cost, the higher the chance of activating the SUPER BONUS."
+                                                "The maximum value of the prize is limited to 5,000x the bet in both the main game and FREE SPINS. If the prize of the total round hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed.",
+                                                "The BONUS can be activated instantly from the main game by buying it for 100x the value of the bet rewarding the player with 10 FREE SPINS."
                                             ],
                                             "IT": [
-                                                "Il valore massimo del premio è limitato a 5.000x la scommessa sia nel gioco principale che nel BONUS. Se il premio del round totale raggiunge 5.000x la scommessa, il round termina. Il premio viene assegnato e tutti i FREE SPINS rimanenti vengono rimossi.",
-                                                "Attiva il BONUS o il SUPER BONUS immediatamente acquistandoli rispettivamente per 50x o 300x la tua scommessa. In alternativa, puoi acquistare il MYSTERY BONUS, che attiva un BONUS casuale, più alto è il costo, maggiore è la possibilità di attivare il SUPER BONUS."
+                                                "Il valore massimo del premio è limitato a 5.000 volte la scommessa sia nel gioco principale che nei FREE SPINS. Se il premio del giro totale raggiunge 5.000 volte la scommessa, il giro termina. Il premio viene assegnato e tutti i FREE SPINS rimanenti vengono rimossi.",
+                                                "Il BONUS può essere attivato immediatamente dal gioco principale acquistandolo per 100 volte il valore della scommessa, premiando il giocatore con 10 FREE SPINS."
                                             ],
                                             "RU": [
-                                                "Макѝимальнаѝ ѝтоимоѝть приза ограничена 5,000x ѝтавкой как в оѝновной игре, так и в BONUS. Еѝли приз за полный раунд доѝтигает 5,000x ѝтавки, раунд завершаетѝѝ. Приз вручаетѝѝ, и вѝе оѝтавшиеѝѝ FREE SPINS удалѝютѝѝ.",
-                                                "Нктивируйте BONUS или SUPER BONUS мгновенно, купив их за 50x или 300x вашей ѝтавки ѝоответѝтвенно. Кроме того, вы можете купить MYSTERY BONUS, который активирует ѝлучайный BONUS, чем выше ѝтоимоѝть, тем выше шанѝ активации SUPER BONUS."
+                                                "Максимальная стоимость приза ограничена 5,000x ставкой как в основной игре, так и в FREE SPINS. Если приз за полный раунд достигает 5,000x ставки, раунд завершается. Приз вручается, и все оставшиеся FREE SPINS удаляются.",
+                                                "BONUS можно мгновенно активировать из основной игры, купив его за 100x стоимости ставки, что вознаграждает игрока 10 FREE SPINS."
                                             ],
                                             "FR": [
-                                                "La valeur maximale du prix est limitée à 5,000x la mise dans le jeu principal et le BONUS. Si le prix du tour complet atteint 5,000x la mise, le tour se termine. Le prix est attribué et tous les FREE SPINS restants sont retirés.",
-                                                "Activez le BONUS ou le SUPER BONUS instantanément en les achetant pour 50x ou 300x votre mise respectivement. Alternativement, vous pouvez acheter le MYSTERY BONUS, qui active un BONUS aléatoire, plus le coût est élevé, plus la chance d'activer le SUPER BONUS est grande."
+                                                "La valeur maximale du prix est limitée à 5,000 fois la mise dans le jeu principal et les FREE SPINS. Si le prix du tour complet atteint 5,000 fois la mise, le tour se termine. Le prix est attribué et tous les FREE SPINS restants sont retirés.",
+                                                "Le BONUS peut être activé instantanément depuis le jeu principal en l'achetant pour 100 fois la valeur de la mise, récompensant le joueur avec 10 FREE SPINS."
                                             ],
                                             "ZH": [
-                                                "奖金的最大值在主游戝和BONUS中均陝制为下注的5,000倝。如果总轮次的奖金达到下注的5,000倝，轮次结束。奖金将被额坑，所有剩余的FREE SPINS将被移除。",
-                                                "通过支付50倝或300倝的赌注坳坯立坳激活BONUS或SUPER BONUS。或者，您坯以购买MYSTERY BONUS，它激活一个隝机的BONUS，戝本越高，激活SUPER BONUS的机会越大。"
+                                                "奖金的最大值在主游戏和FREE SPINS中均限制为投注的5,000倍。如果总轮次的奖金达到投注的5,000倍，轮次结束。奖金将被颁发，所有剩余的FREE SPINS将被移除。",
+                                                "可以通过支付下注值的100倍从主游戏中立即激活BONUS，奖励玩家10个FREE SPINS。"
                                             ],
                                             "US": [
-                                                "The maximum value of the prize is limited to 5,000x the bet in both the main game and BONUS. If the prize of the total round hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed.",
-                                                "Activate the BONUS or SUPER BONUS instantly by buying them for 50x or 300x your bet respectively. Alternatively, you can buy the MYSTERY BONUS, which activates a random BONUS, the higher the cost, the higher the chance of activating the SUPER BONUS."
+                                                "The maximum value of the prize is limited to 5,000x the bet in both the main game and FREE SPINS. If the prize of the total round hits 5,000x the bet, the round finishes. The prize is awarded and all the FREE SPINS left are removed.",
+                                                "The BONUS can be activated instantly from the main game by buying it for 100x the value of the bet rewarding the player with 10 FREE SPINS."
                                             ],
                                             "PT": [
-                                                "O valor máximo do prêmio é limitado a 5,000x a aposta tanto no jogo principal quanto no BONUS. Se o prêmio da rodada total atingir 5,000x a aposta, a rodada termina. O prêmio é concedido e todos os FREE SPINS restantes são removidos.",
-                                                "Ative o BONUS ou o SUPER BONUS instantaneamente comprando-os por 50x ou 300x a sua aposta, respectivamente. Alternativamente, você pode comprar o MYSTERY BONUS, que ativa um BONUS aleatório, quanto maior o custo, maior a chance de ativar o SUPER BONUS."
+                                                "O valor máximo do prêmio é limitado a 5.000 vezes a aposta tanto no jogo principal quanto nos FREE SPINS. Se o prêmio da rodada total atingir 5.000 vezes a aposta, a rodada termina. O prêmio é concedido e todos os FREE SPINS restantes são removidos.",
+                                                "O BONUS pode ser ativado instantaneamente a partir do jogo principal, comprando-o por 100 vezes o valor da aposta, recompensando o jogador com 10 FREE SPINS."
                                             ]
                                         },
                                         "direction": "column",
