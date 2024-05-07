@@ -378,7 +378,7 @@ function createRuleSection(mainSection, subSection, subContainer) {
                                 case "puntataMaxima":
                                 case "maxWinValue":
                                     typeOfListText.textContent = `${word.content[currentLanguage]} `;
-                                    typeOfListValue.textContent = ` ${word.value}x the bet`;
+                                    typeOfListValue.textContent = ` ${word.value} ${currentCurrency}`;
                                     containerRTP.appendChild(typeOfListText);
                                     containerRTP.appendChild(typeOfListValue);
                                     containerRTP.style.flexDirection = "row";
