@@ -1235,6 +1235,7 @@
                                         }
                                     },
                                     {
+                                        "valueType": "maxWinValueLimit",
                                         "Type": "text",
                                         "content": {
                                             "EN": [
